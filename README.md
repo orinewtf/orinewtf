@@ -50,7 +50,7 @@
 ## 🌐 Contacts
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="t.me/orinewtf"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
